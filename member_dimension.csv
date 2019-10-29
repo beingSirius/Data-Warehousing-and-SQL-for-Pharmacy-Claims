@@ -1,0 +1,5 @@
+member_id,member_first_name,member_last_name,member_birth_date,member_age,member_gender
+10001,David ,Dennison,1946-06-14 00:00:00,72,M
+10002,John,Smith,1962-01-02 00:00:00,56,M
+10003,Jane,Doe,1982-05-04 00:00:00,36,F
+10004,Elaine,Rogers,1983-10-12 00:00:00,34,F
